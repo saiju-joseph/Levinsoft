@@ -313,7 +313,7 @@ p {
       left: 0;
    }
    .banner-caption h1 {
-      font-size: 2.5rem;
+      font-size: 2.1rem;
    }
    .home-banner::after {
       width: 100%;
@@ -333,5 +333,8 @@ p {
    }
    .footer-logo img {
       width: 50%;
+   }
+   .top-social-icons {
+      display: flex;
    }
 }
